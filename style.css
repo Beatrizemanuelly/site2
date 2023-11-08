@@ -27,3 +27,14 @@ nav a{
     font-size: 22px;/*tamanho da fonte*/
     text-decoration: none;/*tirar o sublinhado do texto*/
 }
+
+header{
+    background: #BBBBBB;
+    padding: 20px 0;
+}
+
+.caixa{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
