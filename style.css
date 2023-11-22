@@ -76,6 +76,17 @@ nav a{
     border-radius: 10px;
 }
 
+.produtos li:hover { 
+    border-color:#7a1a1a ;
+}
+
+.produtos li:active {
+    border-color: #7a1a1a;
+}
+
+.produtos li:hover h2{
+
+}
 img {
     width: 200px;
     height: 200px;
